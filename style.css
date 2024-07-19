@@ -1,0 +1,31 @@
+ 
+
+.nav-container{
+    background-color: aqua;
+    height: 100px;
+    display: flex;
+    width: auto;
+}
+
+
+.nav-right{
+    margin-left: 500px;
+    
+}
+
+#company{
+    text-align: left;
+    font-size: 30px;
+    padding: 10px 15px;
+    margin-top: 15px;
+    color: brown;
+
+}
+
+
+.li-list{
+    display: inline;
+    margin: 20px;
+    font-size: 30px;
+    text-align: right;
+}
